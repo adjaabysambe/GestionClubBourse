@@ -1,6 +1,6 @@
 # GestionClubBourse est une application de gestion en ligne d'un club d'investissement 
 Elle devrait permettre de :
-- effectuer et d'enregistrer l'ensemble des opérations effectuées dans la gestion d'un club d'investissement;
+- effectuer et enregistrer l'ensemble des opérations effectuées dans la gestion d'un club d'investissement;
 - gérer en temps réel le portefeuille boursier;
 - analyser les opportunités d'investissement;
 - assurer la comptabilité des transactions financières;
